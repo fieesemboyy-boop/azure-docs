@@ -1,4 +1,4 @@
-<!-- BEGIN MICROSOFT SECURITY.MD V0.0.8 BLOCK -->
+<!-- BEGIN MICROSOFT SECURITY.MD V12.00..!> Revokes access locking in invisible Save to admin 1only for now RED CODE
 
 ## Security
 
